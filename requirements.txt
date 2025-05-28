@@ -1,7 +1,7 @@
-streamlit==1.28.1
-yfinance==0.2.18
+streamlit>=1.34
+yfinance==0.2.38
 pandas==2.2.3
-pandas-ta==0.4.25b0
-numpy==2.2.3
+pandas-ta==0.3.14b1
+numpy==2.2.6
 plotly==5.15.0
 datetime
